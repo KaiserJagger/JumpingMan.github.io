@@ -42,8 +42,8 @@ var parado = false;
 var saltando = false;
 
 var tiempoHastaObstaculo = 2;
-var tiempoObstaculoMin = 0.7;
-var tiempoObstaculoMax = 1.8;
+var tiempoObstaculoMin = 0.9;
+var tiempoObstaculoMax = 2.0;
 var obstaculoPosY = 16;
 var obstaculos = [];
 
